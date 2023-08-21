@@ -2,7 +2,7 @@
 namespace Vladamba\NewPhpinfo;
 class NewPhpinfo{
     public static function show(): void {
-        echo 'Hello Composer';
+        echo 'Hello Composer!';
         phpinfo();
     }
 }
