@@ -1,0 +1,19 @@
+{
+    "name": "vladamba/new-phpinfo-packet",
+    "description": "Just phpinfo",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vladamba\\NewPhpinfo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladamba",
+            "email": "mvladislav777@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
